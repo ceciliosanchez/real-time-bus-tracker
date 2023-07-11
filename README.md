@@ -6,8 +6,7 @@ A real-time bus tracker via APIs that displays the movement of buses in Boston.
 
 ## Description
 
-A real-time webpage using data from Boston's MBTA bus company and Google Maps API.
-It shows the real time movements of public busses on the map.
+A real-time webpage using data from Boston's MBTA bus company and Google Maps API, which shows the real time movements of public busses on the map.
 
 To run this code on your own computer, clone this repo:
 
