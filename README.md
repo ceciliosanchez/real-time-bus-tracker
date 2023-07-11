@@ -1,6 +1,6 @@
 # Project for MIT xPro Full Stack Developer course
 
-## Name
+## Bus Tracker
 
 A real-time bus tracker via APIs that displays the movement of buses in Boston.
 
