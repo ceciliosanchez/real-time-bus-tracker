@@ -8,9 +8,9 @@ A real-time bus tracker via APIs that displays the movement of buses in Boston.
 
 A real-time webpage using data from Boston's MBTA bus company and Google Maps API, which shows the real time movements of public busses on the map.
 
-To run this code on your own computer, go to:   https://github.com/ceciliosanchez/real-time-bus-tracker/tree/main
+## How to run   
 
-1. Clone the repository to your computer.
+1. Clone the repository to your computer from: https://github.com/ceciliosanchez/real-time-bus-tracker/tree/main
 2. Obtain your own Google Cloud Maps Platform API access token by signing up at Google Cloud.
 3. In the index.html file, replace YOUR_GOGLE_MAPS_KEY at line 9.
 4. Sign up also at https://api-v3.mbta.com Boston Bus Public Company and generate your own API Key.
